@@ -1,1 +1,3 @@
-# Calibration, Validation, and Simulation of TKTD models in R
+# .github
+
+This repo stores some technical files of the organisation.
